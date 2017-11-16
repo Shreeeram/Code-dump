@@ -1,3 +1,3 @@
 # code-dump
 
-This repository will consist dump of multiple useful codes from different people across the world. 
+This repository has dump of useful codes snippets that I use. 
